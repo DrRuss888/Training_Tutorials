@@ -79,7 +79,7 @@ Console.WriteLine(nullString); // prints nothing
 Console.WriteLine($"1st string is {emptyString.Length} characters long.");
 
 // this line will throw an exception (uncomment it to confirm)
-// Console.WriteLine($"2nd string is {nullString.Length} characters long.");
+Console.WriteLine($"2nd string is {nullString.Length} characters long.");
 ```
 ```{.REPL}
 using System;
