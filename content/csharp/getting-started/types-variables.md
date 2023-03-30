@@ -51,7 +51,7 @@ class Program
 {
     static void Main()
     {
-        var name = "Steve"; // use your name here
+        var name = "Russell"; // use your name here
         Console.WriteLine($"Hello {name}!");
     }
 }
