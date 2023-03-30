@@ -28,7 +28,7 @@ class Program
 You can change this greeting to be more personalized by using a variable. On the line above this one, you can add a variable that holds your name, like this:
 
 ```c#
-var name = "Steve"; // use your name here
+var name = "Russell"; // use your name here
 ```
 
 There are a few new elements to this line of code. First, you're using a C# keyword, ``var``, which you can think of as *variable*. The ``var`` keyword is shorthand for whatever the type on the other side of the assignment operator (``=``) might be. In this case, the value in double quotes (``"Steve"`` in the example above) is a *string*. Strings are one of the built-in types in C#, and are used to represent text values. You can also declare a variable by specifying its type explicitly. In this example, the equivalent statement would be ``string name = "Steve";``.
